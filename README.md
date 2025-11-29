@@ -21,6 +21,7 @@ This page provides a visual summary of my recent research projects, including wo
 
 ## 📄 Embedded PDF Preview
 
+<!-- Primary embed (works on most browsers) -->
 <embed src="Visual_Research_Summary.pdf" width="100%" height="900px" type="application/pdf">
 
 ---
