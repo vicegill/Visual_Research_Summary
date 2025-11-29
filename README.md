@@ -3,12 +3,6 @@
 
 This page provides a visual summary of my recent research projects, including work carried out at the University of Cambridge and during my Master's thesis at LMU Munich.
 
----
-
-## 📄 Download Full Visual Summary (PDF)
-[Click here to view the PDF](Visual_Research_Summary.pdf)
-
----
 
 ## 🧬 Highlights
 
@@ -21,3 +15,13 @@ This page provides a visual summary of my recent research projects, including wo
 - SLiM + pyslim simulations.
 - Preprocessing pipeline (NumPy → PyTorch tensors).
 - CNN + FCNN architectures (see page 3).
+- 
+## 📄 Embedded PDF Preview
+
+<embed src="Visual_Research_Summary.pdf" width="100%" height="800px" type="application/pdf">
+
+## 📄 Download Full Visual Summary (PDF)
+[Click here to view the PDF](Visual_Research_Summary.pdf)
+
+
+
