@@ -19,17 +19,17 @@ This page provides a visual summary of my recent research projects, including wo
 
 ---
 
-## 📄 Embedded PDF preview
+## 📄 Embedded PDF Preview
 
-<!-- Primary embed (works on most browsers) -->
 <embed src="Visual_Research_Summary.pdf" width="100%" height="900px" type="application/pdf">
-
-<!-- Fallback using Google Docs Viewer (works if embed is blocked) -->
-<iframe src="https://docs.google.com/gview?embedded=true&url=https://vicegill.github.io/Visual_Research_Summary/Visual_Research_Summary.pdf"
-        style="width:100%; height:900px;" frameborder="0">
-</iframe>
 
 ---
 
+## 📄 Download Full Visual Summary (PDF)
+[Download Visual Research Summary (PDF)](Visual_Research_Summary.pdf)
 
+---
+
+### 🖼 Image Attribution
+Some schematic figures and visual elements were **created using BioRender** as part of my research summary.
 
