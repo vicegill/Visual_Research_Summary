@@ -31,7 +31,5 @@ This page provides a visual summary of my recent research projects, including wo
 
 ---
 
-## 📄 Download full visual summary (PDF)
-[Download Visual Research Summary (PDF)](Visual_Research_Summary.pdf)
 
 
